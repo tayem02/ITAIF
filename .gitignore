@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.brand-source/site.css
+.brand-source/site.js
+*.log
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
